@@ -1,0 +1,26 @@
+body {
+	background-color: #FFF;
+	color: #000;
+	font-family: "Cardo";
+	font-size: 16px;
+	line-height: 1.8;
+	letter-spacing: 0.6px;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #333;
+}
+
+#shadow_top {
+	display: none;
+}
+
+input {
+	border: 1px solid #CCC;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #FFF;
+	color: #666;
+	display: none;
+}
