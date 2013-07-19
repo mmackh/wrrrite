@@ -8,3 +8,6 @@ Bugs:
 
 Demo:
 http://wrrrite.com
+
+Attribution:
+The original idea & implementation for this wrrrite was taken from Mathias Jean Johansen's project https://github.com/majjoha/writejs
